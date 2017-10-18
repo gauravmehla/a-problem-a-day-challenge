@@ -2,7 +2,7 @@
 
 This is a challenge that I set for myself. I will solve atlease one problem every day for 30 days. Here I will share my solutions and overall progress that I have made yet.
 
-## Want to take up this challenge ? 
+# Want to take up this challenge ? 
 
 ![](https://i.pinimg.com/736x/01/3d/35/013d359e116d291e21dd00e89ae1d5b9--challenge-accepted-the-challenge.jpg)
 
@@ -17,7 +17,7 @@ Create a repository and start solving the problems. Just tweet me using my twitt
   - [x] ~~15 Oct~~ : 1 Problem
   - [x] ~~16 Oct~~ : 1 Problem
   - [x] ~~17 Oct~~ : 1 Problem
-  - [x] ~~18 Oct~~ : 4 Problem
+  - [x] ~~18 Oct~~ : 4 Problems
   - [ ] 19 Oct
   - [ ] 20 Oct
   - [ ] 21 Oct
@@ -44,5 +44,7 @@ Create a repository and start solving the problems. Just tweet me using my twitt
   - [ ] 11 Nov
   - [ ] 12 Nov
   - [ ] 13 Nov
-- [ ] 60 Days Challenge _( Not Decided )_
+  
+- [ ] 60 Days Challenge _( Soon )_
+
 - [ ] 90 Days Challenge _( Not Decided )_
