@@ -9,6 +9,7 @@ This is a challenge that I set for myself. I will solve atlease one problem ever
 I am solving these problems in order to increase my logical thinking and training my brain to work efficiently during difficult time. Join me if you also want to challenge yourself.
 
 ### Come and join me 👋
+Create a repository and start solving the problems. Just tweet me using my twitter handle _**@gauravmehla**_ to tell me that you have read this and joined the path to challenge our brains.
 
 ## Sprints
 
