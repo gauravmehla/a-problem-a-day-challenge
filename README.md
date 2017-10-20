@@ -19,7 +19,7 @@ Create a repository and start solving the problems. Just tweet me using my twitt
   - [x] ~~17 Oct~~ : 1 Problem
   - [x] ~~18 Oct~~ : 4 Problems
   - [x] ~~19 Oct~~ : 2 Problems
-  - [ ] 20 Oct
+  - [x] ~~20 Oct~~ : 3 Problems
   - [ ] 21 Oct
   - [ ] 22 Oct
   - [ ] 23 Oct
