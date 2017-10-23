@@ -14,14 +14,14 @@ Create a repository and start solving the problems. Just tweet me using my twitt
 ## Sprints
 
 - [x] 30 Days Challenge _( 15-Oct : 13-Nov )_ **Total Progress : 20%**
-  - [x] ~~15 Oct~~ : 1 Problem
-  - [x] ~~16 Oct~~ : 1 Problem
-  - [x] ~~17 Oct~~ : 1 Problem
-  - [x] ~~18 Oct~~ : 4 Problems
-  - [x] ~~19 Oct~~ : 2 Problems
-  - [x] ~~20 Oct~~ : 3 Problems
-  - [ ] 21 Oct
-  - [ ] 22 Oct
+  - [x] ~~15 Oct~~  : 1 Problem
+  - [x] ~~16 Oct~~  : 1 Problem
+  - [x] ~~17 Oct~~  : 1 Problem
+  - [x] ~~18 Oct~~  : 4 Problems
+  - [x] ~~19 Oct~~  : 2 Problems
+  - [x] ~~20 Oct~~  : 3 Problems
+  - [ ] ~~21 Oct~~  : **ERROR**
+  - [x] ~~22 Oct~~  : 1 Problem
   - [ ] 23 Oct
   - [ ] 24 Oct
   - [ ] 25 Oct
