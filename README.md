@@ -4,7 +4,9 @@ This is a challenge that I set for myself. I will solve atlease one problem ever
 
 # Want to take up this challenge ? 
 
-![](https://i.pinimg.com/736x/01/3d/35/013d359e116d291e21dd00e89ae1d5b9--challenge-accepted-the-challenge.jpg)
+<p align="center">
+  <img  src="https://i.pinimg.com/736x/01/3d/35/013d359e116d291e21dd00e89ae1d5b9--challenge-accepted-the-challenge.jpg">
+</p>
 
 I am solving these problems in order to increase my logical thinking and training my brain to work efficiently during difficult time. Join me if you also want to challenge yourself.
 
