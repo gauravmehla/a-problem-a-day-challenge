@@ -25,7 +25,7 @@ Create a repository and start solving the problems. Just tweet me using my twitt
   - [ ] ~~21 Oct~~  : **ERROR**
   - [x] ~~22 Oct~~  : 4 Problems
   - [x] ~~23 Oct~~  : 1 Problem
-  - [ ] 24 Oct
+  - [x] ~~24 Oct~~  : 1 Problem
   - [ ] 25 Oct
   - [ ] 26 Oct
   - [ ] 27 Oct
