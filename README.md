@@ -30,7 +30,7 @@ Create a repository and start solving the problems. Just tweet me using my twitt
   - [x] ~~26 Oct~~  : 1 Problem
   - [x] ~~27 Oct~~  : 1 Problem
   - [x] ~~28 Oct~~  : 2 Problems
-  - [ ] 29 Oct
+  - [x] ~~29 Oct~~  : 1 Problem
   - [ ] 30 Oct
   - [ ] 31 Oct
   - [ ] 01 Nov
