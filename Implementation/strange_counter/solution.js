@@ -9,7 +9,7 @@ function strange_counter( t ) {
 		counter *= 2;
 	}
 
-	console.log( counter - ( t - start_point ) );
+	return counter - ( t - start_point ) ;
 }
 
 strange_counter( 7 );
