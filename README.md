@@ -15,7 +15,7 @@ Create a repository and start solving the problems. Just tweet me using my twitt
 
 ## Sprints
 
-- [x] 30 Days Challenge _( 15-Oct : 13-Nov )_ **Total Progress : 63.27%**
+- [x] 30 Days Challenge _( 15-Oct : 13-Nov )_ **Total Progress : 69.93%**
   - [x] ~~15 Oct~~  : 1 Problem
   - [x] ~~16 Oct~~  : 1 Problem
   - [x] ~~17 Oct~~  : 1 Problem
@@ -36,7 +36,7 @@ Create a repository and start solving the problems. Just tweet me using my twitt
   - [x] ~~01 Nov~~  : 1 Problem
   - [x] ~~02 Nov~~  : 1 Problem
   - [x] ~~03 Nov~~  : 1 Problem
-  - [ ] 04 Nov
+  - [x] ~~04 Nov~~  : 1 Problem
   - [ ] 05 Nov
   - [ ] 06 Nov
   - [ ] 07 Nov
