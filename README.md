@@ -1,6 +1,6 @@
 ![Imgur](https://i.imgur.com/xc2K3tj.jpg)
 
-This is a challenge that I set for myself. I will solve atlease one problem every day for 30 days. Here I will share my solutions and overall progress that I have made yet.
+This is a challenge that I set for myself. I will solve atlease one problem every day for 21 days. Here I will share my solutions and overall progress that I have made yet.
 
 # Want to take up this challenge ? 
 
@@ -15,7 +15,7 @@ Create a repository and start solving the problems. Just tweet me using my twitt
 
 ## Sprints
 
-- [x] 30 Days Challenge _( 15-Oct : 13-Nov )_ **Total Progress : 69.93%**
+- [x] 30 Days Challenge _( 15-Oct : 04-Nov )_ **Total Progress : 100%**
   - [x] ~~15 Oct~~  : 1 Problem
   - [x] ~~16 Oct~~  : 1 Problem
   - [x] ~~17 Oct~~  : 1 Problem
@@ -37,16 +37,7 @@ Create a repository and start solving the problems. Just tweet me using my twitt
   - [x] ~~02 Nov~~  : 1 Problem
   - [x] ~~03 Nov~~  : 1 Problem
   - [x] ~~04 Nov~~  : 1 Problem
-  - [ ] 05 Nov
-  - [ ] 06 Nov
-  - [ ] 07 Nov
-  - [ ] 08 Nov
-  - [ ] 09 Nov
-  - [ ] 10 Nov
-  - [ ] 11 Nov
-  - [ ] 12 Nov
-  - [ ] 13 Nov
   
-- [ ] 60 Days Challenge _( Soon )_
+- [ ] 42 Days Challenge _( Soon )_
 
-- [ ] 90 Days Challenge _( Not Decided )_
+- [ ] 63 Days Challenge _( Not Decided )_
